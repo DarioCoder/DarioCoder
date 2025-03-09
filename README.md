@@ -1,4 +1,3 @@
-```
 # 💫 About Me:
 I'm studying and working on my Python skills :D
 
@@ -25,4 +24,3 @@ I'm studying and working on my Python skills :D
 
 ---
 [![Profile Visits](https://visitcount.itsvg.in/api?id=DarioCoder&icon=0&color=0)]
-```
